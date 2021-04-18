@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <!--指定API的版本-->
+    <apiVersion>45.0</apiVersion>
+    <!--isExposed设置为True，Lightning App Builder中可以引用该LWC-->
+    <isExposed>true</isExposed>
+    <!--该Lwc的Label-->
+    <masterLabel>Hello World</masterLabel>
+    <!--该Lwc的说明-->
+    <description>Add a classic greeting to any page.</description>
+    <targets>
+      <!--表明该LWC可以用在App Page上-->
+      <target>lightning__AppPage</target>
+    </targets>
+    <targetConfigs>
+      <targetConfig targets="lightning__AppPage">
+          <!--定义一个Name属性-->
+          <property name="name" type="String" label="Name" placeholder="World" description="Enter the name of the person to greet."/>
+      </targetConfig>
+    </targetConfigs>
+</LightningComponentBundle>
