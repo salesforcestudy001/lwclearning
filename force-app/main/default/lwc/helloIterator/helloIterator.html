@@ -1,0 +1,15 @@
+<template>
+    <lightning-card title="HelloIterator" icon-name="custom:custom14">
+        <ul class="slds-m-around_medium">
+            <!--通过iterator来循环contacts列表-->
+            <template iterator:it={contacts}>
+                <!--it.value指向列表中当前的项目；it.first指向第一条项目；it.last指向最后一条项目-->
+                <li key={it.value.Id}>
+                    <div if:true={it.first} class="list-first"></div>
+                    {it.value.Name}, {it.value.Title}
+                    <div if:true={it.last} class="list-last"></div>
+                </li>
+            </template>
+        </ul>
+    </lightning-card>
+</template>

@@ -1,0 +1,16 @@
+<template>
+    <lightning-card title="HelloForEach" icon-name="custom:custom14">
+        <ul class="slds-m-around_medium">
+            <!--
+                for each循环显示contacts列表中的值
+                for:item定义了一个contact变量，指向了contacts列表中当前的项目。
+            -->
+            <template for:each={contacts} for:item="contact">
+                <!--必须设置key的值；key的值必须是string或者数值类型-->
+                <li key={contact.Id}>
+                    {contact.Name}, {contact.Title}
+                </li>
+            </template>
+        </ul>
+    </lightning-card>
+</template>
