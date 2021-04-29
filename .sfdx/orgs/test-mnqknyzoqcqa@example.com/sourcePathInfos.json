@@ -84,9 +84,9 @@
   "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc": {
     "sourcePath": "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc",
     "isDirectory": true,
-    "modifiedTime": 1618727858807,
-    "changeTime": 1618727858807,
-    "contentHash": "faff82b8edb19af39d7a6c08271b6498fd431a07",
+    "modifiedTime": 1619663547967,
+    "changeTime": 1619663547967,
+    "contentHash": "ca3a57ee8a604e06dca6ad15802df0607cd838ea",
     "state": "u",
     "package": "force-app",
     "deferContentHash": true
@@ -195,5 +195,89 @@
     "state": "u",
     "isWorkspace": true,
     "deferContentHash": true
+  },
+  "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloBinding": {
+    "sourcePath": "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloBinding",
+    "isDirectory": true,
+    "modifiedTime": 1618742528465,
+    "changeTime": 1618742528465,
+    "contentHash": "4bc6860f3bc8e44e211e34b62f705ba7cd27783e",
+    "state": "u",
+    "package": "force-app"
+  },
+  "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloBinding\\helloBinding.html": {
+    "sourcePath": "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloBinding\\helloBinding.html",
+    "size": 130,
+    "modifiedTime": 1618743114828,
+    "changeTime": 1618743114828,
+    "contentHash": "391a41c3f5bce2c0cc7a64a40e8e9c30657c7ef9",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloBinding\\helloBinding.js": {
+    "sourcePath": "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloBinding\\helloBinding.js",
+    "size": 369,
+    "modifiedTime": 1618743100876,
+    "changeTime": 1618743100876,
+    "contentHash": "2ebf05f752915ebee16c488ecb81212a383b5f0a",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloBinding\\helloBinding.js-meta.xml": {
+    "sourcePath": "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloBinding\\helloBinding.js-meta.xml",
+    "size": 284,
+    "modifiedTime": 1618742781140,
+    "changeTime": 1618742781140,
+    "contentHash": "ba6fe4c6654bb9a0a99ca58bc34803bb1010b892",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloConditionalRendering": {
+    "sourcePath": "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloConditionalRendering",
+    "isDirectory": true,
+    "modifiedTime": 1619663547971,
+    "changeTime": 1619663547971,
+    "contentHash": "177b896ec3b81a94e741cac9e388cd811a243d77",
+    "state": "u",
+    "package": "force-app"
+  },
+  "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloConditionalRendering\\helloConditionalRendering.html": {
+    "sourcePath": "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloConditionalRendering\\helloConditionalRendering.html",
+    "size": 597,
+    "modifiedTime": 1619663962265,
+    "changeTime": 1619663962265,
+    "contentHash": "211436f074818b76f4d0012f2e3b93866065139b",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloConditionalRendering\\helloConditionalRendering.js": {
+    "sourcePath": "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloConditionalRendering\\helloConditionalRendering.js",
+    "size": 234,
+    "modifiedTime": 1619663750095,
+    "changeTime": 1619663750095,
+    "contentHash": "8feaf6186ccc24a195185cc07d52084481e0ad27",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloConditionalRendering\\helloConditionalRendering.js-meta.xml": {
+    "sourcePath": "d:\\workspace\\Lwc Training\\excercise\\lwcLearningProject\\force-app\\main\\default\\lwc\\helloConditionalRendering\\helloConditionalRendering.js-meta.xml",
+    "size": 282,
+    "modifiedTime": 1619663769019,
+    "changeTime": 1619663769019,
+    "contentHash": "cb0aa3a4fb3c21d0913bd403c205ca2158babc2d",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
   }
 }

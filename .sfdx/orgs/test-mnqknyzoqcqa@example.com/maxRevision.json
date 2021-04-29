@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 239,
+  "serverMaxRevisionCounter": 283,
   "sourceMembers": {
     "Profile__Admin": {
       "serverRevisionCounter": 203,
@@ -32,7 +32,7 @@
       "isNameObsolete": false
     },
     "CustomTab__lwclearning": {
-      "serverRevisionCounter": 178,
+      "serverRevisionCounter": 248,
       "lastRetrievedFromServer": null,
       "memberType": "CustomTab",
       "isNameObsolete": false
@@ -44,7 +44,7 @@
       "isNameObsolete": false
     },
     "FlexiPage__lwclearning": {
-      "serverRevisionCounter": 225,
+      "serverRevisionCounter": 279,
       "lastRetrievedFromServer": null,
       "memberType": "FlexiPage",
       "isNameObsolete": false
@@ -142,6 +142,54 @@
     "LightningComponentResource__helloWorld/helloWorld.html": {
       "serverRevisionCounter": 239,
       "lastRetrievedFromServer": 239,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__helloBinding": {
+      "serverRevisionCounter": 264,
+      "lastRetrievedFromServer": 264,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__helloBinding/helloBinding.js-meta.xml": {
+      "serverRevisionCounter": 265,
+      "lastRetrievedFromServer": 265,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__helloBinding/helloBinding.html": {
+      "serverRevisionCounter": 266,
+      "lastRetrievedFromServer": 266,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__helloBinding/helloBinding.js": {
+      "serverRevisionCounter": 267,
+      "lastRetrievedFromServer": 267,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__helloConditionalRendering": {
+      "serverRevisionCounter": 280,
+      "lastRetrievedFromServer": 280,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__helloConditionalRendering/helloConditionalRendering.html": {
+      "serverRevisionCounter": 281,
+      "lastRetrievedFromServer": 281,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__helloConditionalRendering/helloConditionalRendering.js-meta.xml": {
+      "serverRevisionCounter": 282,
+      "lastRetrievedFromServer": 282,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__helloConditionalRendering/helloConditionalRendering.js": {
+      "serverRevisionCounter": 283,
+      "lastRetrievedFromServer": 283,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     }
